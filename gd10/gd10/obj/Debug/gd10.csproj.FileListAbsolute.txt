@@ -1,0 +1,8 @@
+C:\Users\37533\Desktop\C#\gd10\gd10\bin\Debug\gd10.exe.config
+C:\Users\37533\Desktop\C#\gd10\gd10\bin\Debug\gd10.exe
+C:\Users\37533\Desktop\C#\gd10\gd10\bin\Debug\gd10.pdb
+C:\Users\37533\Desktop\C#\gd10\gd10\obj\Debug\gd10.csproj.AssemblyReference.cache
+C:\Users\37533\Desktop\C#\gd10\gd10\obj\Debug\gd10.csproj.SuggestedBindingRedirects.cache
+C:\Users\37533\Desktop\C#\gd10\gd10\obj\Debug\gd10.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\C#\gd10\gd10\obj\Debug\gd10.exe
+C:\Users\37533\Desktop\C#\gd10\gd10\obj\Debug\gd10.pdb
